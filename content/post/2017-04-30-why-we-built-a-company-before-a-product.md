@@ -7,7 +7,6 @@ excerpt: Creating a new website for Hopper, one of the top 4 most downloaded tra
 timeToRead: 3
 authors:
 - Thiago Costa
-draft: true
 
 ---
 Leo is the best!
